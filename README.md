@@ -4,7 +4,8 @@ SudokuSolver
 This is the sudoku solver for Code Challenge
 
 The command to start web base app using: python server port_number
-The define port_number is: 8080
+
+The default port_number is: 8080
 
 This simple web app was implemented by tornado and bootstrap
 
