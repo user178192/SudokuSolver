@@ -9,6 +9,6 @@ static_path=os.path.join(os.path.dirname(__file__), "static"),
 
 application = tornado.web.Application(
                 handlers = urls,
-                debug=True,
+                debug=False,
                 **SETTINGS
 )
