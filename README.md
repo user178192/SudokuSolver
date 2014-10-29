@@ -10,4 +10,4 @@ This is a sudoku solver for Code Challenge
    This simple web site was implemented by tornado and bootstrap
 
 
-2. The command to start core solver part is python python solver.py inputfilename outputfilename
+2. The command to start core solver part is: python solver.py inputfilename outputfilename
